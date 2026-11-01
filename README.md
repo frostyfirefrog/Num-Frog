@@ -6,7 +6,7 @@ Built to make everyday typing and coding more convenient! ⌨️
 
 ## 💡 Why I Built This
 
-As a **first-year (FY) student learning C programming**, I noticed how frequently I needed to type special characters like `<`, `>`, `?`, `:`, `"`, `|`, and others.
+As a **first-year (FY) student learning C programming**, I noticed how frequently I needed to type special characters like `<`, `>`, `?`, `:`, `"`, `{`, and others.
 
 On many keyboard layouts, these characters require pressing `Shift` along with another key. Constantly switching between keys can become irritating when coding.
 
