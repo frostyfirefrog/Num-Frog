@@ -34,11 +34,7 @@ My goal is to make keyboard customization more accessible for students, programm
 
 ## 🖥️ Preview
 
-Add screenshots of the extension here to showcase its interface.
-
-<!-- Replace these paths with the actual screenshot paths in your repository. -->
-
-![Num Frog Extension Preview](screenshots/num-frog-preview.png)
+![Num Frog Extension Preview](screenshots/num-frog.png)
 
 ## 🚀 Installation
 
